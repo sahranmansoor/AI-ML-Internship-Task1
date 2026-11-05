@@ -34,9 +34,9 @@ To learn how to clean, preprocess, and prepare raw data for Machine Learning mod
 ## Visualizations
 
 ### 1. Outlier Detection (Before Removal)
-![Boxplot Before](boxplot_before.png)
+![Boxplot Before](fare_boxplot_before.png)
 *Figure 1: Boxplot showing extreme outliers in the 'Fare' column.*
 
 ### 2. Outlier Removal (After Filtering)
-![Boxplot After](boxplot_after.png)
+![Boxplot After](fare_boxplot_after.png)
 *Figure 2: Boxplot after applying the IQR method to filter out extreme values.*
